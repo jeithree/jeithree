@@ -73,6 +73,7 @@ I mainly work with **Node.js, TypeScript, databases, Redis, and modern web techn
 * Distributed systems
 * Scalable real-time architectures
 * AWS services and cloud architecture
+* Kafka and event-driven architectures
 
 ## 📫 Get in Touch
 
