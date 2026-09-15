@@ -22,6 +22,7 @@ I mainly work with **Node.js, TypeScript, databases, Redis, and modern web techn
 
 * PostgreSQL
 * MySQL / MariaDB
+* SQLite
 * MongoDB
 * Redis
 * Prisma
@@ -31,6 +32,7 @@ I mainly work with **Node.js, TypeScript, databases, Redis, and modern web techn
 
 * React
 * Next.js
+* Astro
 * Tailwind CSS
 
 **Infrastructure & Tools**
@@ -38,6 +40,7 @@ I mainly work with **Node.js, TypeScript, databases, Redis, and modern web techn
 * Linux
 * Docker
 * PM2
+* Git
 * GitHub Actions
 * Cloudflare
 * AWS
@@ -67,6 +70,7 @@ I mainly work with **Node.js, TypeScript, databases, Redis, and modern web techn
 
 ## 📚 Currently Learning / Reviewing / Practicing
 
+* NestJS
 * Data Structures & Algorithms
 * System Design
 * Database performance & indexing
