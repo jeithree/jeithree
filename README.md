@@ -78,6 +78,5 @@ I mainly work with **Node.js, TypeScript, databases, Redis, and modern web techn
 
 I'm always interested in interesting backend, full-stack, and software engineering projects.
 
-* **GitHub:** You're already here 🙂
-* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/jeitdev/)
-* **Portfolio:** [Your Portfolio](https://jeitdev.com/)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jeitdev/)
+* **Portfolio:** [Portfolio](https://jeitdev.com/)
