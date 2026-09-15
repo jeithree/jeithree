@@ -1,6 +1,6 @@
 # Hi, I'm Juan 👋
 
-I'm a **Backend Engineer** with 10 years of experience building web applications, APIs, automation systems, and real-time applications.
+I'm a **Backend-focused Full Stack Engineer** with 10 years of experience building web applications, APIs, automation systems, and real-time applications.
 
 I mainly work with **Node.js, TypeScript, databases, Redis, and modern web technologies**, from designing the architecture and writing the code to deploying and maintaining applications in production.
 
